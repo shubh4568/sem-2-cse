@@ -12,9 +12,9 @@ function App() {
         padding: "10px",
         borderRadius: "8px"
       }}>
-        <p>Name: Prajapati</p>
-        <p>Roll No: 1185</p>
-        <p>Subject: DSA</p>
+        <p>Name: Rishabh raghav</p>
+        <p>Roll No: 2025B01010321</p>
+        <p>Subject: dsa</p>
       </div>
 
       <div style={{
